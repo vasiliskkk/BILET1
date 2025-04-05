@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BILET1"
         mc:Ignorable="d"
-        Title="Решение транспортной задачи" Height="600" Width="800">
+        Title="Приложение для решения транспортной задачи методом северо-западного угла" Height="600" Width="800">
 
     <Grid Margin="10">
         <Grid.RowDefinitions>
